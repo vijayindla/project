@@ -1,0 +1,8 @@
+git init
+git config --global user.name "name"
+git config --global user.email"email.com"
+vi abc.txt
+git add .
+git commit -m "msg"
+git remote add 
+git push -u origin master
